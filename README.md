@@ -12,3 +12,5 @@ The specific pollutants their purifier should target.
 The most valued features by potential users.
 The regions with the highest demand and corresponding market size.
 How to tailor R&D efforts based on localized pollution trends.
+
+## Disclaimer: This project is provided by Codebasics Resume Projects. One can visit their website and collect the datasets from there, as uploading datasets in a personal repository shall imply copyright issues. 
