@@ -6,3 +6,9 @@ AirPure Innovations ” is a young startup created in response to India’s air 
 
 # Problem Statement
 The company is in the product development phase and investing in the initial stages of Research and Development. However, before creating or launching such a product in the market, it makes sense to understand the market gap and analyze whether people or the government will be interested in investing in the product.
+
+# Major Concerns
+The specific pollutants their purifier should target.
+The most valued features by potential users.
+The regions with the highest demand and corresponding market size.
+How to tailor R&D efforts based on localized pollution trends.
